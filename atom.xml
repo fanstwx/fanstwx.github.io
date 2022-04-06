@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fanst同人斋</title>
+  <icon>https://fanstwx.github.io/icon.png</icon>
+  <subtitle>欢迎来到霍格沃兹中国分校</subtitle>
+  <link href="https://fanstwx.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://fanstwx.github.io/"/>
+  <updated>2022-04-06T13:02:09.379Z</updated>
+  <id>https://fanstwx.github.io/</id>
+  
+  <author>
+    <name>Fanst</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20220406</title>
+    <link href="https://fanstwx.github.io/2022/04/06/20220406/"/>
+    <id>https://fanstwx.github.io/2022/04/06/20220406/</id>
+    <published>2022-04-06T13:02:09.000Z</published>
+    <updated>2022-04-06T13:02:09.379Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://fanstwx.github.io/2022/04/04/hello-world/"/>
+    <id>https://fanstwx.github.io/2022/04/04/hello-world/</id>
+    <published>2022-04-04T01:19:20.396Z</published>
+    <updated>2022-04-04T01:19:20.396Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
